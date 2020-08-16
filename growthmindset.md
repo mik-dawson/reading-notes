@@ -1,3 +1,4 @@
+[Back to Home Page](/README.md)
 # Growth Mindset
 A _growth mindset_ can be differentiated from a fixed mindset by the lens we use to view obstacles in our lives. A fixed mindset focuses on the past and things that are out of our control. On the other hand, a growth mindset is optimistic about the future and the things that are within our control. When I keep a growth mindset in life, that means I firmly believe that my abilities can be developed through perseverence and effort, and that I'm not limited by a pre-existing talent or intelligence. Through hardwork and this belief, I'm able to achieve my goals and grow wisdom. 
 
