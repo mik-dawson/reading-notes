@@ -6,3 +6,4 @@ Hello! My name is **MiKindzi Dawson**, but feel free to call me **MiK**. I work 
 
 Site Navigation 
 - [Growth Mindset](/growthmindset.md)
+- [Learning Markdown](/learningmarkdown.md)
