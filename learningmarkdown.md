@@ -10,7 +10,7 @@
 **Markdown** uses textual symbols to indicate the structure of the page. This can be compared to when you're working in MS Work and you select **B** in the toolbar at the top of the page to make your text **bold**. 
 
 An example of Markdown:
-`\**This is a bold statement.**\`
+`**This is a bold statement.**` displays as: 
 **This is a bold statement.**
 
 ## How do we use Markdown?
